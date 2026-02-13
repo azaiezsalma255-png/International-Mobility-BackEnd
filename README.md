@@ -1,4 +1,5 @@
-# International-Mobility, academic full-stack project completed in 2023 as part of a university project
+# International-Mobility
+Academic full-stack project completed in 2023 as part of a university project
 
 # 🌍 International Mobility Platform
 
