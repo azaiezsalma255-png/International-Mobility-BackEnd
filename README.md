@@ -17,11 +17,6 @@ This platform allows students to connect, share experiences, and access useful i
 - Spring Data JPA
 - REST APIs
 
-### Frontend
-- Angular
-- TypeScript
-- HTML / CSS
-
 ### Database
 - MySQL
 
